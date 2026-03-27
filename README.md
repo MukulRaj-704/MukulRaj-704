@@ -90,9 +90,30 @@ I prioritize writing clean, maintainable, and high-quality code, supported by st
 
 ## 🔗 Connect with Me
 
-| 🔗 Reach Out | 🔗 Reach Out | 🔗 Reach Out |
-|-------------|-------------|-------------|
-| <a href="https://github.com/MukulRaj-704"><img src="https://img.shields.io/badge/GitHub-Profile-6C63FF?style=for-the-badge&logo=github"/></a> | <a href="https://www.linkedin.com/in/mukulraj9829"><img src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=for-the-badge&logo=linkedin"/></a> | <a href="mailto:mukulraj9829@gmail.com"><img src="https://img.shields.io/badge/Email-Send%20Mail-6C63FF?style=for-the-badge&logo=gmail"/></a> |>
+<table align="center">
+<tr>
+
+<td width="420" align="center">
+
+
+### 🔗 Reach Out  
+<a href="https://www.linkedin.com/in/mukulraj9829">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</td>
+
+<td width="420" align="center">
+
+### 🔗 Reach Out  
+<a href="mailto:mukulraj9829@gmail.com">
+<img src="https://img.shields.io/badge/Email-Send%20Mail-6C63FF?style=for-the-badge&logo=gmail"/>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ## 📊 GitHub Stats
 
