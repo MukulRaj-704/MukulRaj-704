@@ -56,103 +56,22 @@ I prioritize writing clean, maintainable, and high-quality code, supported by st
 ### 🧩 Core Concepts
 `Data Structures & Algorithms` • `Operating Systems` • `DBMS` • `Computer Networks` • `OOP`
 
-## Top Projects
+## 🔗 Connect with Me
 
-1. [ZestBlog](https://github.com/MukulRaj-704/ZestBlog)
-   - Description: A simple, responsive blog built with **Django** for reading and sharing posts.
-   - Stars: 0 ⭐
-   - Primary language: HTML
-   - Forks: 0 | Open issues: 0
+| 🔗 Reach Out | 🔗 Reach Out | 🔗 Reach Out |
+|-------------|-------------|-------------|
+| <a href="https://github.com/MukulRaj-704"><img src="https://img.shields.io/badge/GitHub-Profile-6C63FF?style=for-the-badge&logo=github"/></a> | <a href="https://www.linkedin.com/in/mukulraj9829"><img src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=for-the-badge&logo=linkedin"/></a> | <a href="mailto:mukulraj9829@gmail.com"><img src="https://img.shields.io/badge/Email-Send%20Mail-6C63FF?style=for-the-badge&logo=gmail"/></a> |>
 
-2. [Machine-Learning-Algos](https://github.com/MukulRaj-704/Machine-Learning-Algos)
-   - Description: Notebooks and code from a machine-learning learning journey — implementations, preprocessing, training & evaluation (Scikit-learn, Pandas) — often run in Google Colab.
-   - Stars: 0 ⭐
-   - Primary language: Jupyter Notebook
-   - Forks: 0 | Open issues: 0
+## 📊 GitHub Stats
 
-3. [Sensovo](https://github.com/MukulRaj-704/Sensovo)
-   - Description: Recommendation system for movies and books — helps users discover content by analyzing item similarities. Includes a live demo.
-   - Stars: 0 ⭐
-   - Primary language: Python
-   - Homepage / Demo: https://mukulraj-704-sensovo-appmain-dnkyir.streamlit.app/ 
-   - Forks: 0 | Open issues: 0
-
-4. [Mind-Care](https://github.com/MukulRaj-704/Mind-Care)
-   - Description: Django web app integrating ML to analyze mental-health-related survey input; built to learn Django fundamentals and ML integration.
-   - Stars: 0 ⭐
-   - Primary language: HTML
-   - Forks: 0 | Open issues: 0
-
-5. [Mukul-DSA-CppVault](https://github.com/MukulRaj-704/Mukul-DSA-CppVault)
-   - Description: C++ DSA repository focused on building fundamentals and clear problem-solving explanations.
-   - Stars: 0 ⭐
-   - Primary language: C++
-   - Forks: 0 | Open issues: 0
-
-(Also see: [Expence-Tracker](https://github.com/MukulRaj-704/Expence-Tracker) — deployed: https://expense-tracker-eysz.onrender.com )
-
-## GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MukulRaj-704&theme=dark&hide_border=false&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B)
-- Public repositories: **10**
-- Followers: **0**
-- Following: **0**
-
-Badges & Stats:
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MukulRaj-704&theme=dark&ring=F59E0B&fire=F59E0B" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MukulRaj-704&show_icons=true&theme=dark" height="170"/>
+<!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MukulRaj-704&layout=compact&theme=dark" height="170"/>-->
+</p>
 
 - ![Followers](https://img.shields.io/github/followers/MukulRaj-704?style=social)
 - ![GitHub repos](https://img.shields.io/badge/Public%20Repos-10-blue)
-
-Dynamic stats (embed these images in your README):
-
-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MukulRaj-704&show_icons=true&theme=default)
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MukulRaj-704&layout=compact)
-
-(Place the above image links in your profile README to show live GitHub statistics.)
-
-## Recent Activity
-
-## Recent Activity 🔔
-
-Here are the latest push events from the account (most recent first):
-
-- 2026-03-23T05:35:55Z — Pushed to `main` on [ZestBlog](https://github.com/MukulRaj-704/ZestBlog)
-- 2026-03-23T05:33:03Z — Pushed to `main` on [ZestBlog](https://github.com/MukulRaj-704/ZestBlog)
-- 2026-03-23T05:18:32Z — Pushed to `main` on [ZestBlog](https://github.com/MukulRaj-704/ZestBlog)
-- 2026-03-23T05:16:03Z — Pushed to `main` on [ZestBlog](https://github.com/MukulRaj-704/ZestBlog)
-- 2026-03-23T05:08:53Z — Pushed to `main` on [ZestBlog](https://github.com/MukulRaj-704/ZestBlog)
-- 2026-03-23T04:59:06Z — Pushed to `main` on [ZestBlog](https://github.com/MukulRaj-704/ZestBlog)
-- 2026-03-22T20:59:22Z — Pushed to `main` on [ZestBlog](https://github.com/MukulRaj-704/ZestBlog)
-- 2026-03-22T20:35:36Z — Pushed to `main` on [ZestBlog](https://github.com/MukulRaj-704/ZestBlog)
-- 2026-03-22T20:27:11Z — Pushed to `main` on [ZestBlog](https://github.com/MukulRaj-704/ZestBlog)
-- 2026-03-22T20:23:37Z — Pushed to `main` on [ZestBlog](https://github.com/MukulRaj-704/ZestBlog)
-
-Tip: For a live activity feed, consider adding the GitHub activity overview or using the GitHub Events API.
-
-## Latest Blog Posts
-
-## Latest Blog Posts ✍️
-
-I couldn't find a public blog URL or recent articles linked on the profile. If you have posts, add your blog URL to your GitHub profile so they can be listed here.
-
-Project demos & write-ups available:
-- Expense Tracker (deployed): https://expense-tracker-eysz.onrender.com
-- Sensovo demo: https://mukulraj-704-sensovo-appmain-dnkyir.streamlit.app/
-
-If you'd like, I can help format and list blog posts or project write-ups once you provide links.
-
-## Connect with Me
-
-## Connect with Me 🔗
-
-- GitHub: [MukulRaj-704](https://github.com/MukulRaj-704)  
-  ![GitHub](https://img.shields.io/badge/GitHub-@MukulRaj--704-181717?logo=github&logoColor=white)
-
-- LinkedIn: [mukulraj9829](https://www.linkedin.com/in/mukulraj9829)  
-  ![LinkedIn](https://img.shields.io/badge/LinkedIn-mukulraj9829-blue?logo=linkedin&logoColor=white)
-
-- Email: [mukulraj9829@gmail.com](mailto:mukulraj9829@gmail.com)  
-  ![Email](https://img.shields.io/badge/Email-mukulraj9829@gmail.com-D14836?logo=gmail&logoColor=white)
 
 Project demos / apps:
 - Expense Tracker: https://expense-tracker-eysz.onrender.com
