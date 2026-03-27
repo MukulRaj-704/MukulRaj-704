@@ -118,9 +118,9 @@ I prioritize writing clean, maintainable, and high-quality code, supported by st
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MukulRaj-704&theme=dark&ring=F59E0B&fire=F59E0B" width="420"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MukulRaj-704&show_icons=true&theme=dark" width="420"/>
+  <img src="https://streak-stats.demolab.com?user=MukulRaj-704&theme=dark&ring=F59E0B&fire=F59E0B" width="390"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MukulRaj-704&show_icons=true&theme=dark" width="390"/>
 </p>
 
 Feel free to reach out for collaboration, questions, or code reviews! ✨
