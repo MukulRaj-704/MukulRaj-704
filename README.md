@@ -24,21 +24,21 @@ I prioritize writing clean, maintainable, and high-quality code, supported by st
 <td width="400" height="180" valign="top">
 
 ### 🧠 Programming Languages  
-![Python](https://img.shields.io/badge/Python-6C63FF?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-6C63FF?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14532D?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-60F172A?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-6C63FF?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-6C63FF?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1F2937?style=for-the-badge&logo=mysql&logoColor=white)
 
 </td>
 
 <td width="400" height="180" valign="top">
 
 ### 🤖 ML & Data  
-![NumPy](https://img.shields.io/badge/NumPy-7C3AED?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-7C3AED?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-7C3AED?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-7C3AED?style=for-the-badge)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-7C3AED?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-4C1D95?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-064E3B?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0A192F?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-1F2937?style=for-the-badge)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-74532D?style=for-the-badge)
 
 </td>
 
@@ -60,7 +60,7 @@ I prioritize writing clean, maintainable, and high-quality code, supported by st
 ### 🗄️ Databases  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-9333EA?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-9333EA?style=for-the-badge&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-DC2626?style=for-the-badge&logo=redis)
+![Redis](https://img.shields.io/badge/Redis-0A192F?style=for-the-badge&logo=redis)
 
 </td>
 
@@ -73,7 +73,7 @@ I prioritize writing clean, maintainable, and high-quality code, supported by st
 ### ⚙️ Tools  
 ![Git](https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Jupyter](https://img.shields.io/badge/Jupyter-F59E0B?style=for-the-badge&logo=jupyter)
+![Jupyter](https://img.shields.io/badge/Jupyter-74532D?style=for-the-badge&logo=jupyter)
 ![Streamlit](https://img.shields.io/badge/Streamlit-7C3AED?style=for-the-badge&logo=streamlit)
 
 </td>
@@ -101,12 +101,5 @@ I prioritize writing clean, maintainable, and high-quality code, supported by st
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MukulRaj-704&show_icons=true&theme=dark" height="170"/>
 <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MukulRaj-704&layout=compact&theme=dark" height="170"/>-->
 </p>
-
-- ![Followers](https://img.shields.io/github/followers/MukulRaj-704?style=social)
-- ![GitHub repos](https://img.shields.io/badge/Public%20Repos-10-blue)
-
-Project demos / apps:
-- Expense Tracker: https://expense-tracker-eysz.onrender.com
-- Sensovo demo: https://mukulraj-704-sensovo-appmain-dnkyir.streamlit.app/
 
 Feel free to reach out for collaboration, questions, or code reviews! ✨
