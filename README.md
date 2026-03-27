@@ -16,45 +16,77 @@ I prioritize writing clean, maintainable, and high-quality code, supported by st
 - 💬 Ask me about Python, DSA, backend engineering, and network analysis  
 - ⚡ Passionate about transforming data and system behavior into meaningful insights  
 
-## Skills & Technologies
+## 🛠️ Skills & Technologies
 
-### 🧠 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
----
+<table align="center">
+<tr>
 
-### 🤖 Machine Learning & Data
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-4C1D95?style=for-the-badge&logo=scikit-learn)
+<td width="400" height="180" valign="top">
 
----
+### 🧠 Programming Languages  
+![Python](https://img.shields.io/badge/Python-6C63FF?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-6C63FF?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-6C63FF?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-6C63FF?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🌐 Backend & Web Development
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![Django Channels](https://img.shields.io/badge/Django%20Channels-092E20?style=for-the-badge)
+</td>
+
+<td width="400" height="180" valign="top">
+
+### 🤖 ML & Data  
+![NumPy](https://img.shields.io/badge/NumPy-7C3AED?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-7C3AED?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-7C3AED?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-7C3AED?style=for-the-badge)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-7C3AED?style=for-the-badge)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="300" height="180" valign="top">
+
+### 🌐 Backend  
+![Django](https://img.shields.io/badge/Django-14532D?style=for-the-badge&logo=django)
+![Django Channels](https://img.shields.io/badge/Django%20Channels-14532D?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
----
+</td>
 
-### 🗄️ Databases & Systems
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4C1D95?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-150458?style=for-the-badge&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-013243?style=for-the-badge&logo=redis)
+<td width="300" height="180" valign="top">
 
----
+### 🗄️ Databases  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-9333EA?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-9333EA?style=for-the-badge&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-DC2626?style=for-the-badge&logo=redis)
 
-### ⚙️ Tools & Technologies
-![Git](https://img.shields.io/badge/Git-092E20?style=for-the-badge&logo=git)
+</td>
+
+</tr>
+
+<tr>
+
+<td width="300" height="180" valign="top">
+
+### ⚙️ Tools  
+![Git](https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Jupyter](https://img.shields.io/badge/Jupyter-013243?style=for-the-badge&logo=jupyter)
-![Streamlit](https://img.shields.io/badge/Streamlit-150458?style=for-the-badge&logo=streamlit)
+![Jupyter](https://img.shields.io/badge/Jupyter-F59E0B?style=for-the-badge&logo=jupyter)
+![Streamlit](https://img.shields.io/badge/Streamlit-7C3AED?style=for-the-badge&logo=streamlit)
 
----
+</td>
 
-### 🧩 Core Concepts
-`Data Structures & Algorithms` • `Operating Systems` • `DBMS` • `Computer Networks` • `OOP`
+<td width="300" height="180" valign="top">
+
+### 🧩 Core Concepts  
+`DSA` • `OS` • `DBMS` • `Networks` • `OOP`
+
+</td>
+
+</tr>
+</table>
 
 ## 🔗 Connect with Me
 
